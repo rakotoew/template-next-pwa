@@ -1,0 +1,22 @@
+@import "variables.css";
+
+* {
+  font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100vh;
+
+}
+
+body {
+  background: var(--background-gray-lighter);
+}
+
+.bg-hero {
+  background-image: linear-gradient(141deg, #112a37, #253d59 72%, #263965);
+}
+
+
+
