@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import {useTranslations} from "use-intl";
-import styles from '@styles/error.module.css';
+import styles from "@styles/error.module.css";
 
 interface Props {
     title: string;
